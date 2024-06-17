@@ -1,0 +1,166 @@
+body
+{
+
+    text-align: center;
+
+}
+
+li
+{
+
+    list-style: none;
+    float: left;
+    padding-left: 70px;
+    padding-right: 65px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: blanchedalmond;
+    
+}
+
+ul
+{
+
+    position: fixed;
+
+}
+
+body h1
+{
+
+    border-width: 5px;
+    border-color: rgb(255, 247, 0);
+    border-style: dashed;
+    color: white;
+    font-family: "Are You Serious", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+
+}
+
+#home
+{
+
+    background-color: blue;
+
+}
+
+#mom
+{
+
+    background-color: chocolate;
+
+}
+
+body h2
+{
+
+    color: greenyellow;
+
+}
+
+body h3
+{
+
+    color: yellow;
+
+}
+
+body p
+{
+
+    color:rgb(88, 249, 255);
+    font-size: 15px;
+
+}
+
+body a
+{
+
+    color: rgb(0, 255, 174);
+    font-size: 15px;
+
+}
+
+li a
+{
+
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+
+}
+
+li a:hover
+{
+
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+#body
+{
+
+    background-color: rgb(152, 0, 0);
+
+}
+
+#dad
+{
+
+    background-color: rgb(124, 0, 138);
+
+}
+
+#sister
+{
+
+    background-color: rgb(25, 94, 0);
+
+}
+
+#grand
+{
+
+    background-color: rgb(39, 25, 77);
+
+}
+
+#me
+{
+
+    background-color: rgb(88, 88, 88);
+
+}
+
+.movie_head
+{
+
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+
+.movie_head i
+{
+
+    float: right;
+
+}
+
+.img
+{
+
+    width: 45%;
+
+}
+
+.big
+{
+
+    font-size: 20px;
+
+}
